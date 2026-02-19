@@ -19,5 +19,6 @@ https://github.com/user-attachments/assets/15f57c18-a459-4641-9ac7-bba1d490cd79
 ## Usage
 1. Install dependencies
 2. Run script
-3. Login on first run if prompted
+3. Scroll to set filter
+4. Login on first run if prompted
 
