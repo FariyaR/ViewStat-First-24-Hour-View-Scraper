@@ -1,5 +1,0 @@
-node_modules/
-chrome-profile/
-*.csv
-*_raw.json
-.env
